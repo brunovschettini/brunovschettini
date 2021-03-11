@@ -6,7 +6,7 @@ A FullStack developer from Brazil
 - 🏃 I love to run
 - Ask me about Java
 
-Languages and Tools
+### Languages and Tools
 
 <p>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840074-0cae2c80-8283-11eb-8bcc-78a75e640448.png" alt="html"/>
@@ -30,7 +30,7 @@ Languages and Tools
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110841465-aa562b80-8284-11eb-8ca0-3fc6d91d200d.png" alt="agile"/>   
 <p>
 
-##### Connect with me
+#### Connect with me
 
 <p>
 <a href="https://www.linkedin.com/in/brunovschettini/" target="_blank">
