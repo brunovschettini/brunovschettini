@@ -30,7 +30,7 @@ A FullStack developer from Brazil
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110841465-aa562b80-8284-11eb-8ca0-3fc6d91d200d.png" alt="agile"/>   
 <p>
 
-#### Connect with me
+### Connect with me
 
 <p>
 <a href="https://www.linkedin.com/in/brunovschettini/" target="_blank">
