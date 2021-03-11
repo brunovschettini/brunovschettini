@@ -8,7 +8,6 @@ A FullStack developer from Brazil
 Languages and Tools
 
 <p>
-<code>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840074-0cae2c80-8283-11eb-8bcc-78a75e640448.png" alt="html"/>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840072-0c159600-8283-11eb-97d1-90cba0656cf6.png" alt="css"/>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840069-0b7cff80-8283-11eb-85a4-2edce4395438.png" alt="javascript"/>
@@ -20,6 +19,13 @@ Languages and Tools
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840082-0d46c300-8283-11eb-8b32-dd328eec2c06.png" alt="php"/>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840066-0ae46900-8283-11eb-9f30-ab1571a7aa1a.png" alt="mysql"/>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110840068-0b7cff80-8283-11eb-8a86-47e09539e6c4.png" alt="postgresql"/>
-<img height="20" src="https://user-images.githubusercontent.com/2788848/110840071-0c159600-8283-11eb-8057-ff200bfbeca9.png" alt="oracle"/>  
-</code>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110840071-0c159600-8283-11eb-8057-ff200bfbeca9.png" alt="oracle"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841181-58ada100-8284-11eb-9141-b4d5f00f4fa4.png" alt="tibco"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841281-77ac3300-8284-11eb-871e-9ae70e4bbbe9.png" alt="java"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841302-7e3aaa80-8284-11eb-9306-8eb346f1f055.png" alt="angular"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841350-898dd600-8284-11eb-8bd5-65afc569e918.png" alt="wordpress"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841390-93afd480-8284-11eb-8f76-ad65a75e42f9.jpg" alt="jira"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841456-a6c2a480-8284-11eb-923f-9579f17b6ec6.png" alt="git"/>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110841465-aa562b80-8284-11eb-8ca0-3fc6d91d200d.png" alt="agile"/>   
 <p>
+
