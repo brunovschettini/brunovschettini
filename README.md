@@ -28,4 +28,7 @@ Languages and Tools
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110841456-a6c2a480-8284-11eb-923f-9579f17b6ec6.png" alt="git"/>
 <img height="20" src="https://user-images.githubusercontent.com/2788848/110841465-aa562b80-8284-11eb-8ca0-3fc6d91d200d.png" alt="agile"/>   
 <p>
+<p>
+<img height="20" src="https://user-images.githubusercontent.com/2788848/110842095-70395980-8285-11eb-9556-383394427de5.jpg" alt="linkedin"/>  
+</p>
 
